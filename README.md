@@ -1,6 +1,9 @@
-#### Notes
-Workshop specific presentations of this content are stored in /doc, with presentation date appended (i.e. [what_is_ai_020122.ppt](https://github.com/danielsmaxwell-workshops/ai_workshops/blob/main/doc/what_is_ai_020122.pptx)). 
 
+Resources and presentations for the What is AI workshop.
+
+***
+
+#### Notes
 See *Deep Learning: A Visual Approach*, chapter 1 for additional content about the different kinds of AI systems.
 
 ***
