@@ -1,9 +1,16 @@
+### Workshop Learning Objectives (*What is AI*)
 
-Resources and presentations for the What is AI workshop.
+1. Discuss what you currently know about AI.
+2. Discuss what you would like to learn about AI.
+3. Describe and define artificial intelligence (AI).
+4. Demonstrate examples of AI.
+5. Describe general limitations of AI.
+6. Explain differences between narrow and general AI.
+7. Discuss how you will use AI.
 
 ***
-
 #### Notes
+
 See *Deep Learning: A Visual Approach*, chapter 1 for additional content about the different kinds of AI systems.
 
 ***
