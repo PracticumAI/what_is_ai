@@ -8,6 +8,14 @@
 6. Explain differences between narrow and general AI.
 7. Discuss how you will use AI.
 
+### Workshop Learning Objectives (*Practicum Introduction - Intermediate Sequence*)
+
+1. Describe the intermediate program
+2. Describe why "Data is the new oil."
+3. Explain the two types of data.
+4. Briefly discuss the types of data related to deep learning methods, tasks and questions that would be addressed.
+5. Discuss what types of data that you work with or research on.
+
 ***
 #### Notes
 
