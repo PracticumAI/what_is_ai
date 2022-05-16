@@ -40,7 +40,6 @@ See *Deep Learning: A Visual Approach*, chapter 1 for additional content about t
 6. [The Batch](https://read.deeplearning.ai/the-batch/)
 7. [Nvidia AI Playground](https://www.nvidia.com/en-us/research/ai-playground/)
 8. [The Computer as Artist](https://www.youtube.com/watch?v=ZDcaDv0U8yw)
-9. [Why computers will never write novels](https://nautil.us/issue/95/escape/why-computers-will-never-write-good-novels)
 
 #### Video Links
 1. [Judea Pearl (Start @ 13:00)](https://www.youtube.com/watch?v=9YMHqO6Z7AI&list=RDLVJQr0LFvR1OE&index=9)
