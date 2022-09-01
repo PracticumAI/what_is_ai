@@ -2,10 +2,6 @@ Practicum program overview notes.
 
 ***
 
-#### Videos
-[PAI : Program Overview](https://mediasite.video.ufl.edu/Mediasite/Play/0373a4c5094d48b5afd62e23128411521d)
-
-***
 #### Applied AI Use-Cases
 
 1. *Artificial Intelligence with Python* -- chapter 2 (Fundamental Use Cases for Artificial Intelligence)
