@@ -1,3 +1,9 @@
+# This course has been archived
+
+## The contents of this course have now been merged in to the [Getting Started course](https://practicumai.org/courses/getting_started/). Please visit that page for current content.
+
+**Archived on 2023-01-05**
+
 ## Course Outline
 
 ### Module 1
